@@ -1,0 +1,5 @@
+export const ALIŞVERİŞ ="Alışveriş"
+export const SEPET ="Sepet"
+export const PROFİLE ="Profile"
+export const AYARLAR ="Ayarlar"
+export const SEÇENEKLER ="Seçenekler"
